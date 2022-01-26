@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
   
 }
 
@@ -12,9 +11,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  /*background: -webkit-linear-gradient(left, #7579ff, #b224ef);*/ /*outer box color*/
   font-family: sans-serif;
-  background-color: #a7adba!important;
+  background-color: #000000important;
   
 }
 
@@ -29,7 +27,7 @@ input, button{
   position: relative;
 
   height: 550px;
-  background: #fff; /*center box color*/
+  background: #ffffff; /*center box color*/
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 
